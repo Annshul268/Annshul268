@@ -55,7 +55,7 @@ AI-powered healthcare platform designed to make doctor discovery and appointment
 
 **Built with:** JavaScript · React · REST APIs · AI
 
-**Repository:** [Add GitHub Repository]
+**Repository:** https://github.com/Annshul268/AI-Doctor-Appointment-Platform.git
 
 ## Technologies
 
