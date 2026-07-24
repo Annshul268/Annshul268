@@ -77,8 +77,7 @@ Git · GitHub · VS Code
 ---
 
 ## Problem Solving
-
-**00+ DSA problems** solved across LeetCode, GeeksforGeeks and HackerRank.
+*800+ DSA problems** solved across LeetCode, GeeksforGeeks and HackerRank.
 
 **LeetCode Contest Rating — 1640**
 
@@ -86,31 +85,9 @@ Primary language — **Java**
 
 ---
 
-## Experience
-
-### Juniper Networks
-**Cloud Network Intern · Apr 2025 — Jul 2025**
-
-Worked with concepts around:
-
-`Cloud Networking` · `Routing` · `Switching` · `Virtualization` · `SDN`
-
-Explored cloud deployment models, system performance optimization and troubleshooting through guided modules.
-
----
-
-## Education
-
-**B.Tech — Computer Science & Engineering**  
-Galgotias University · 2023 — Present
-
----
-
 ## Elsewhere
 
-- **LinkedIn** — [Add LinkedIn URL]
-- **GitHub** — [Add GitHub URL]
-- **Codolio** — [Add Codolio URL]
+- **LinkedIn** — https://www.linkedin.com/in/anshul-kumar-gupta-016323295
 - **Email** — officialanshul378@gmail.com
 
 ---
