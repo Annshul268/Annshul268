@@ -42,7 +42,7 @@ An intelligent **Retrieval-Augmented Generation (RAG)** system built to explore 
 
 **Exploring:** Generative AI · LLMs · RAG · Embeddings · Vector Search
 
-**Repository:** [Add IntelliRAG Repository]
+**Repository:** https://github.com/prranavii/IntelliRAG.git
 
 ### AI Doctor Appointment Platform
 
