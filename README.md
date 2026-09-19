@@ -35,26 +35,29 @@ Currently learning and working with **MERN Stack, Python, LLMs, RAG, and AI Agen
 
 ## 💻 Projects
 
-### 🤖 AI Doctor Appointment Platform
-Full-stack healthcare platform with AI-assisted appointment management and conflict-free scheduling.
+### 📄 DocLingo
 
-**Tech:** React.js · Node.js · Express.js · MongoDB
+AI-powered document processing and understanding platform designed to simplify interaction with documents using AI.
 
-### 🧠 AI Mental Health Chatbot
-AI-powered chatbot designed to provide conversational mental-health support using NLP and transformer-based models.
-
-**Tech:** Python · NLP · Transformers
-
-### 🤟 Indian Sign Language to Text
-Application that converts Indian Sign Language gestures into text using computer vision and AI.
-
-**Tech:** Python · MERN Stack
+**Tech:** Python · AI · NLP · LLMs
 
 ### 🇮🇳 Yojana Sahayak
+
 AI-powered government scheme navigator that helps users discover relevant government schemes using **RAG and LLMs**.
 
 **Tech:** Python · Groq · ChromaDB · LangChain · React
 
+### 🤖 IntelliRAG
+
+Intelligent Retrieval-Augmented Generation system for retrieving relevant information and generating context-aware responses.
+
+**Tech:** Python · RAG · LLMs · ChromaDB · LangChain
+
+### 🤟 Indian Sign Language to Text
+
+AI-powered application that converts Indian Sign Language gestures into text using computer vision and machine learning.
+
+**Tech:** Python · Computer Vision · AI · MERN Stack
 ---
 
 ## 🧩 Problem Solving
