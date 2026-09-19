@@ -1,95 +1,90 @@
-# Anshul Kumar Gupta
+# Hi, I'm Anshul Gupta 👋
 
-Computer Science undergraduate and software developer interested in **Software Engineering, Generative AI, LLMs and intelligent applications**.
+### Full-Stack Developer | AI & GenAI Enthusiast
 
-I enjoy solving algorithmic problems, building practical software, and exploring how **Large Language Models and Retrieval-Augmented Generation (RAG)** can be used to build smarter real-world applications.
+I'm a Computer Science student interested in building practical applications using **Full-Stack Development, AI, and Generative AI**.
 
-Based in **Noida, India**.
-
----
-
-## Current
-
-- Exploring **Generative AI, LLMs and RAG pipelines**
-- Learning how AI can be integrated into real-world software applications
-- Solving **Data Structures & Algorithms** problems in Java
-- Building and improving web applications
-- Strengthening **Core CS** — DBMS, Operating Systems and Computer Networks
-- Preparing for Software Engineering opportunities
+Currently learning and working with **MERN Stack, Python, LLMs, RAG, and AI Agents**.
 
 ---
 
-## Interests
+## 🚀 Current
 
-**Generative AI** · **Large Language Models** · **RAG** · **AI-powered Applications**
-
-**Software Engineering** · **Problem Solving** · **Web Development**
-
-I'm particularly interested in understanding how LLM-powered systems can move beyond simple chat interfaces through **retrieval, contextual knowledge and application integration**.
-
----
-
-## Projects
-
-### IntelliRAG
-
-An intelligent **Retrieval-Augmented Generation (RAG)** system built to explore how Large Language Models can generate more relevant and context-aware responses using external knowledge.
-
-- Built around the **RAG workflow** — retrieval, context augmentation and LLM-based generation
-- Explores document-based question answering and semantic information retrieval
-- Designed to understand how external knowledge can improve LLM responses
-- Part of my ongoing exploration of **Generative AI, LLMs and RAG systems**
-
-**Exploring:** Generative AI · LLMs · RAG · Embeddings · Vector Search
-
-**Repository:** https://github.com/prranavii/IntelliRAG.git
-
-### AI Doctor Appointment Platform
-
-AI-powered healthcare platform designed to make doctor discovery and appointment booking more intelligent.
-
-- Integrated symptom analysis and doctor recommendation features
-- Built responsive and accessible user interfaces
-- Implemented API-based frontend-backend communication
-- Added form validation and optimized rendering for smoother booking workflows
-
-**Built with:** JavaScript · React · REST APIs · AI
-
-**Repository:** https://github.com/Annshul268/AI-Doctor-Appointment-Platform.git
-
-## Technologies
-
-**Languages**  
-Java · Python · JavaScript · SQL
-
-**Web**  
-React.js · JavaScript · HTML · CSS
-
-**AI — Exploring & Learning**  
-Generative AI · LLMs · RAG · NLP · AI Application Development
-
-**Core CS**  
-Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
-
-**Tools**  
-Git · GitHub · VS Code
+- 🔭 Building AI-powered applications and full-stack projects
+- 🌱 Learning **Generative AI, RAG, LangChain & AI Agents**
+- 💻 Improving my **DSA & problem-solving** skills
+- 🎯 Preparing for software engineering placements
 
 ---
 
-## Problem Solving
-*800+ DSA problems** solved across LeetCode, GeeksforGeeks and HackerRank.
+## 🛠️ Technologies
 
-**LeetCode Contest Rating — 1640**
+### Languages
+`Java` `Python` `JavaScript` `SQL` `C++`
 
-Primary language — **Java**
+### Development
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+### AI / GenAI
+`Machine Learning` `NLP` `LLMs` `RAG` `LangChain` `ChromaDB` `Ollama` `Groq`
+
+### Tools
+`Git` `GitHub` `VS Code` `Streamlit`
 
 ---
 
-## Elsewhere
+## 💻 Projects
 
-- **LinkedIn** — https://www.linkedin.com/in/anshul-kumar-gupta-016323295
-- **Email** — officialanshul378@gmail.com
+### 🤖 AI Doctor Appointment Platform
+Full-stack healthcare platform with AI-assisted appointment management and conflict-free scheduling.
+
+**Tech:** React.js · Node.js · Express.js · MongoDB
+
+### 🧠 AI Mental Health Chatbot
+AI-powered chatbot designed to provide conversational mental-health support using NLP and transformer-based models.
+
+**Tech:** Python · NLP · Transformers
+
+### 🤟 Indian Sign Language to Text
+Application that converts Indian Sign Language gestures into text using computer vision and AI.
+
+**Tech:** Python · MERN Stack
+
+### 🇮🇳 Yojana Sahayak
+AI-powered government scheme navigator that helps users discover relevant government schemes using **RAG and LLMs**.
+
+**Tech:** Python · Groq · ChromaDB · LangChain · React
 
 ---
 
-> Building software, solving problems, and exploring what becomes possible when traditional engineering meets Generative AI.
+## 🧩 Problem Solving
+
+- 🧠 **583+ Problems Solved**
+- 🟢 LeetCode · GeeksForGeeks · HackerRank · CodeChef
+- 📈 Continuously improving DSA and competitive programming skills
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Annshul268&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annshul268&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Annshul268">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
