@@ -58,6 +58,7 @@ Intelligent Retrieval-Augmented Generation system for retrieving relevant inform
 AI-powered application that converts Indian Sign Language gestures into text using computer vision and machine learning.
 
 **Tech:** Python · Computer Vision · AI · MERN Stack
+
 ---
 
 ## 🧩 Problem Solving
