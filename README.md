@@ -1,10 +1,10 @@
-# Hi, I'm Anshul Gupta 
+# Anshul Kumar Gupta 
 
-### Full-Stack Developer | AI & GenAI Enthusiast
+### Computer Science Engineer · Software Developer · GenAI Builder
 
-I'm a Computer Science student interested in building practical applications using **Full-Stack Development, AI, and Generative AI**.
+I'm a Computer Science student interested in building practical applications using **LLM, AI, and Generative AI**.
 
-Currently learning and working with **MERN Stack, Python, LLMs, RAG, and AI Agents**.
+Currently exploring how RAG, language models and backend engineering can be combined to build useful real-world systems.
 
 ---
 
