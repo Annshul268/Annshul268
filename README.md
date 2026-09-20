@@ -20,7 +20,7 @@ Currently exploring how RAG, language models and backend engineering can be comb
 ## Technologies
 
 ### Languages
-`Java` `Python` `JavaScript` `SQL` `C++`
+`Java` `Python` `SQL`
 
 ### Development
 `React.js` `Node.js` `Express.js` `MongoDB`
@@ -35,29 +35,17 @@ Currently exploring how RAG, language models and backend engineering can be comb
 
 ## Projects
 
-###  DocLingo
+### [DocLingo](https://github.com/Annshul268/DOC-Lingo.git)
 
-AI-powered document processing and understanding platform designed to simplify interaction with documents using AI.
+AI-powered multilingual document intelligence platform that enables users to **upload and understand documents, extract meaningful information, and interact with their content using natural language**. It combines document processing with NLP and LLM-based capabilities to make complex or multilingual documents easier to search, understand, and analyze.
 
-**Tech:** Python · AI · NLP · LLMs
+**Tech:** Python · NLP · LLMs · Document Processing · AI
 
-###  Yojana Sahayak
+### [Yojana Sahayak](https://github.com/Annshul268/Yojana-Sahayak.git)
 
-AI-powered government scheme navigator that helps users discover relevant government schemes using **RAG and LLMs**.
+AI-powered **government scheme discovery and recommendation platform** that helps users find schemes relevant to their personal requirements. It uses **Retrieval-Augmented Generation (RAG)** to retrieve information from a structured government-scheme knowledge base and **LLMs** to understand user queries and generate relevant, contextual responses. The system uses **ChromaDB for vector-based retrieval, LangChain for the RAG pipeline, and Groq for fast LLM inference**.
 
-**Tech:** Python · Groq · ChromaDB · LangChain · React
-
-###  IntelliRAG
-
-Intelligent Retrieval-Augmented Generation system for retrieving relevant information and generating context-aware responses.
-
-**Tech:** Python · RAG · LLMs · ChromaDB · LangChain
-
-###  Indian Sign Language to Text
-
-AI-powered application that converts Indian Sign Language gestures into text using computer vision and machine learning.
-
-**Tech:** Python · Computer Vision · AI · MERN Stack
+**Tech:** React · Python · Groq · LangChain · ChromaDB · RAG · LLMs
 
 ---
 
