@@ -81,6 +81,10 @@ AI-powered **government scheme discovery and recommendation platform** that help
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Annshul268&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
  Thanks for visiting my profile!
