@@ -72,10 +72,13 @@ AI-powered application that converts Indian Sign Language gestures into text usi
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Annshul268&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annshul268&theme=transparent&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annshul268&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Annshul268&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Annshul268&theme=github_dark" />
+</p>
 ---
 
 ## 🌐 Connect With Me
