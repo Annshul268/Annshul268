@@ -1,6 +1,6 @@
 # Anshul Kumar Gupta 
 
-### Computer Science Engineer · Software Developer · GenAI Builder
+Computer Science Engineer · Software Developer · GenAI Builder
 
 I'm a Computer Science student interested in building practical applications using **LLM, AI, and Generative AI**.
 
